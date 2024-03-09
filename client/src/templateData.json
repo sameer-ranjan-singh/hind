@@ -1,0 +1,38 @@
+[
+    {
+        "_id":"111",
+        "iconLink":"clock.png",
+        "title":"Freshness Guaranteed",
+        "detail":"We ensure that all our vegetables are freshly harvested and delivered to your doorstep."
+    },
+    {
+        "_id":"222",
+        "iconLink":"discount.png",
+        "title":"Special Discounts",
+        "detail":"Enjoy special discounts on a variety of vegetables every week. Don't miss out on our great deals!"
+    },
+    {
+        "_id":"333",
+        "iconLink":"feedbacks.png",
+        "title":"Customer Feedback",
+        "detail":"We value your feedback. Share your experience with us and help us serve you better."
+    },
+    {
+        "_id":"444",
+        "iconLink":"quality.png",
+        "title":"Superior Quality",
+        "detail":"Our vegetables are carefully selected to ensure superior quality and taste for your satisfaction."
+    },
+    {
+        "_id":"555",
+        "iconLink":"store.png",
+        "title":"Wide Range of Selection",
+        "detail":"Explore our extensive range of fresh vegetables. Find everything you need for your kitchen right here."
+    },
+    {
+        "_id":"666",
+        "iconLink":"support.png",
+        "title":"Dedicated Customer Support",
+        "detail":"Need assistance? Our customer support team is here to help you with any queries or concerns you may have."
+    }
+]

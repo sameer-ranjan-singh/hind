@@ -1,0 +1,39 @@
+
+     [ {
+        "name": "Cucumber",
+        "description": "Cucumbers are cylindrical green fruits with edible seeds surrounded by a crisp, watery flesh. They are low in calories and a good source of hydration.",
+        "imageLink": "https://www.freepik.com/free-photo/four-fresh-cucumbers-white-surface_12086045.htm#fromView=search&page=1&position=42&uuid=05fd819e-b760-42d1-8cb3-1ec03eda100d",
+        "inStock": false
+      },
+      {
+        "name": "Carrot",
+        "description": "Carrots are root vegetables known for their vibrant orange color and sweet, crunchy taste. They are rich in beta-carotene, fiber, vitamins, and minerals.",
+        "imageLink": "https://www.freepik.com/free-ai-image/fresh-healthy-vegetable-salad-with-organic-parsley-cilantro-generated-by-artificial-intelligence_71890459.htm#fromView=search&page=1&position=26&uuid=8a09ddc6-62ae-4778-90b4-273404984f96",
+        "inStock": true
+      },
+      {
+        "name": "Broccoli",
+        "description": "Broccoli is a green vegetable with tightly clustered florets on edible stems. It is high in fiber, vitamins C and K, and contains various antioxidants.",
+        "imageLink": "https://www.freepik.com/free-photo/woman-holds-broccoli-store-market-close-up_47863289.htm#fromView=search&page=1&position=40&uuid=9bde7a25-af34-4e74-b0d0-93d4ad5a864e",
+        "inStock": true
+      },
+      {
+        "name": "Tomato",
+        "description": "Tomatoes are red, juicy fruits commonly used as vegetables in cooking. They are rich in lycopene, vitamin C, potassium, and other nutrients.",
+        "imageLink": "https://www.freepik.com/free-ai-image/closeup-photo-red-fresh-tomatoes-cutted-half-with-water-drops_78565527.htm#fromView=search&page=1&position=46&uuid=46378043-06a2-425e-b373-0017e59ae3db",
+        "inStock": false
+      },
+      {
+        "name": "Spinach",
+        "description": "Spinach is a leafy green vegetable packed with nutrients like iron, vitamins A and K, and antioxidants. It has a mild, slightly sweet flavor.",
+        "imageLink": "https://www.freepik.com/free-photo/fresh-spinach-leaves-bowl_18416600.htm#fromView=search&page=1&position=11&uuid=b0d48a20-4b22-4659-86ae-1f2d69791f94",
+        "inStock": true
+      },
+      {
+        "name": "Bell Pepper",
+        "description": "Bell peppers come in various colors like red, green, and yellow. They are crunchy and sweet with a mild flavor. Bell peppers are rich in vitamins and antioxidants.",
+        "imageLink": "https://www.freepik.com/free-photo/side-view-green-red-bell-peppers-dark-green-table-dark-grey-background_17035842.htm#fromView=search&page=1&position=13&uuid=c78a7a96-34dd-47eb-b004-611ccaffc785",
+        "inStock": true
+      }
+  
+  ]
