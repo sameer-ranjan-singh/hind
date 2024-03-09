@@ -16,7 +16,7 @@ const mongoOptions = {
 app.use(cors({
   credentials : true,
   origin : [ 
-              "https://hind-nine.vercel.app/",
+              "https://hind-nine.vercel.app",
               "http://localhost:5173",
             ]
 }))
@@ -24,10 +24,8 @@ app.use(cors({
 app.use(function(req,res,next){
   res.header("Content-Type", "application/json;charseu=UTF-8")
   res.header("Access-Control-Allow-Credentials", true)
-  res.header(
-    "Access-Control-Allow-Credentials",
-     "Origin, X-requested-With, Content-Type, Accept"
-  )
+  res.header("Access-Control-Allow-Origin")
+  res.header("Origin, X-requested-With, Content-Type, Accept")
   next()
 })
 
