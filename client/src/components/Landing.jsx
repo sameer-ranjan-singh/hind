@@ -11,7 +11,7 @@ function Landing() {
         justifyContent: "center",
         zIndex:0,
       }} 
-      src="../../public/LPage1.jpg" alt="Img Failed to Load" 
+      src="../../LPage1.jpg" alt="Img Failed to Load" 
       />
       <h1 style={{
         position: 'absolute',
